@@ -43,8 +43,3 @@
   </a>
 </div>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/BluuSentinel/BluuSentinel/snake-output/snake.svg" alt="Snake animation" />
-
-###
